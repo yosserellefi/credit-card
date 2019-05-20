@@ -1,0 +1,74 @@
+.App {
+  text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4LGlxOt0ZpnLewOmdOjv3hyeJn1cVWOUFp1v92mH5B4tPnMo3wA");
+  width: 500px;
+  height: 350px;
+  border-radius: 35px;
+  
+}
+
+.credit__card{
+  color: white;
+  
+}
+
+.img__puce{
+    height: 65px;
+    width: 75px;
+    border-radius: 10px;
+}
+
+.serie__card{
+  color: white;
+}
+
+.elements{
+ display: flex;
+  justify-content: space-between;
+  flex:1;
+}
+.card__number h3{
+  color: white;
+  background-color: rgb(21, 20, 20);
+  padding: 10px;
+  margin:30px;
+  width:200px;
+}
+.card-puce{
+  display: flex;
+  width: 80px;
+  height: 60px;
+  justify-content: space-around;
+  flex-direction: column;
+  margin-left:50px; 
+}
+
+
+.visa-card{
+  width: 80px;
+  height: 60px;
+  flex: 1;
+}
+
+.h1{
+  color: white;
+}
+
+.m_y{
+  color: white;
+}
+.valid{
+  color: white;
+}
+.number{
+  color: white;
+}
+
+.bottom{
+  display:flex;
+  justify-content: space-between;
+}
+
+.date{
+  display:flex;
+}
